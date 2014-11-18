@@ -1,0 +1,26 @@
+{
+  "name": "npc",
+  "version": "0.0.0",
+  "description": "Node Package Cache",
+  "main": "npc.js",
+  "bin": {
+    "npc": "npc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lighterio/npc.git"
+  },
+  "keywords": [
+    "npm",
+    "cache"
+  ],
+  "author": "sameubank@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lighterio/npc/issues"
+  },
+  "homepage": "https://github.com/lighterio/npc"
+}
